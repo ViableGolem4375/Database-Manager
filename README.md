@@ -1,7 +1,6 @@
 # Database-Manager
 Database management system created as part of a group in CSC 305 over the course of summer '23. Allows a user to get an inventory from a SQL database and perform operations on it using the software, then send the new edited database back to the SQL version of the database. 
-Requires javafx .jar files to run. Group Members: Matthew Langton, Beckett Maestas, Stephen Brown, 
-Jake Kopacz, Nick Wainwright, Hassan Bhatti. Program visuals shown below: 
+Requires javafx .jar files to run. Group Members: Matthew Langton, Beckett Maestas, Stephen Brown, Jake Kopacz, Nick Wainwright, Hassan Bhatti. Program visuals shown below: 
 
 ![image](https://github.com/ViableGolem4375/Database-Manager/assets/60228542/0d474cc4-fae8-4ac9-9092-196f05a035b2)
 
